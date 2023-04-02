@@ -1,2 +1,2 @@
-# BossKitchen
+# CookSmart
 update later
