@@ -5,8 +5,13 @@ CookSmart is the ultimate grocery list app for anyone who loves to cook and want
 ## Features
 
 Add single or multiple items with a single action
+
 Swipe to delete item
+
 Bulk delete selected items
+
 No ads!
+
 Multiple lists
+
 Show crossed out items from each list
